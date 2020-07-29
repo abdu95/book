@@ -1,6 +1,9 @@
 # INFO 201: Technical Foundations in Informatics
 
 **Abdu**
+
+Some line
+
 This repository contains the source code for the **INFO 201: Technical Foundations in Informatics** course book. The published book can be viewed at **https://info201.github.io/**.
 
 Note that **all** edited source files (including images and other assets) should be edited within the **root** folder; files in the `build` directory may be overwritten.
